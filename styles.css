@@ -1,0 +1,56 @@
+/* Custom CSS Styles for Personal Website */
+/* Feel free to modify as per your preferences */
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Styling for the Header */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center; /* Center-align text for a cleaner look */
+}
+
+/* Styling for the Navigation Menu */
+nav {
+    display: flex; /* Use flexbox for a responsive and flexible layout */
+    justify-content: center; /* Center-align navigation items */
+    background-color: #555; /* Darker background for better contrast */
+    padding: 10px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 15px; /* Add spacing between navigation items */
+    font-weight: bold;
+    transition: color 0.3s; /* Smooth transition for better user experience */
+
+}
+
+nav a:hover {
+    color: #ffcc00; /* Change color on hover for visual feedback */
+}
+
+/* Styling for the Main Content */
+main {
+    padding: 20px;
+}
+
+/* Styling for Sections */
+section {
+    margin-bottom: 20px; /* Add space between sections for better readability */
+}
+
+/* Styling for the Footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+ 
